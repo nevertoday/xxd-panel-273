@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-273
-description: "Create XXD Panel 273 raster artwork: a faithful photograph paired with a small Art Nouveau emblem, one accent color, fine line and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-273 or asks for this 新艺术纹章 style."
+description: "XXD Panel 273｜Art Nouveau Crest: keeps the photo and condenses its most recognisable subject into one small emblem in fine Art Nouveau linework — a single core outline supported by a few whiplash plant curves, rings, a thin geometric border, stars or a halo — on a black, grey, warm-white or muted ground, with exactly one vivid accent colour taken from the photo, light printmaking and paper texture, and a few words in a narrow, elegant publishing typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-273 or asks for an Art Nouveau emblem, ornamental minimal logo or single-accent-colour crest from a photo."
 ---
 
 # XXD Panel 273

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 273"
-  short_description: "新艺术纹章：上半保留原照，下半把主体收成单色强调的新艺术纹章"
-  default_prompt: "Use $xxd-panel-273 to transform my photograph following the complete canonical source brief."
+  short_description: "新艺术纹章：把照片主体收成一枚新艺术细线纹章，只留一种强调色"
+  default_prompt: "Use $xxd-panel-273 to turn my photo into Art Nouveau Crest artwork."

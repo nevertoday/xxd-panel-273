@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 273｜Art Nouveau Crest: keeps the photo and condenses its most recognisable subject into one small emblem in fine Art Nouveau linework — a single core outline supported by a few whiplash plant curves, rings, a thin geometric border, stars or a halo — on a black, grey, warm-white or muted ground, with exactly one vivid accent colour taken from the photo, light printmaking and paper texture, and a few words in a narrow, elegant publishing typeface. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-273 or asks for an Art Nouveau emblem, ornamental minimal logo or single-accent-colour crest from a photo.",
+  "short_description": "新艺术纹章：把照片主体收成一枚新艺术细线纹章，只留一种强调色",
+  "zh-CN": {
+    "name": "新艺术纹章",
+    "tagline": "把照片主体收成一枚新艺术风格的细线纹章，只点一种颜色。",
+    "look": "原照片保留；主体只剩最核心的一个轮廓，用清晰、优雅的细线画出，周围配少量新艺术式植物曲线、圆环、细几何边框、星辰或光环。底色是黑、灰、暖白或低彩度色，整张图只从照片里取一种最有生命力的颜色，小面积点在关键处。带轻微版画感和纸纹，纹章小、居中、留白很大，旁边配几个细窄、出版感的短字，和图形组成 Logo 式的组合。",
+    "traits": ["新艺术线条", "单一强调色", "艺术徽章", "极端留白", "纸上线描"],
+    "good": [
+      "有一处鲜明颜色的单一主体：一朵红花、一只翠鸟、一扇蓝色的门",
+      "轮廓优雅、带曲线的对象：一只天鹅、一株植物、一座穹顶或拱门",
+      "想做成香氛、书店或工作室标志感的静物和建筑照片"
+    ],
+    "poor": [
+      "色彩丰富、每种颜色都想保留的照片，这里只留一种颜色",
+      "需要交代完整场景或多人关系的照片",
+      "想要满版繁复花纹、卡通形象或普通企业 Logo 模板的需求"
+    ]
+  },
+  "en": {
+    "name": "Art Nouveau Crest",
+    "tagline": "Condenses the subject of your photo into one fine-line Art Nouveau crest with a single colour accent.",
+    "look": "Your photo stays; the subject is cut back to one core outline drawn in clean, elegant fine line, framed by a few Art Nouveau plant curves, rings, a thin geometric border, stars or a halo. The ground is black, grey, warm white or a muted tone, and only one colour, the liveliest in the photo, appears in small, intense touches. A light printmaking feel and paper texture run through it; the crest is small and centred in wide empty space, with a few words in a narrow, bookish typeface locked up beside it like a logo.",
+    "traits": ["Art Nouveau linework", "Single accent colour", "Art emblem", "Extreme whitespace", "Line drawing on paper"],
+    "good": [
+      "A single subject with one strong colour: a red flower, a kingfisher, a blue door",
+      "Graceful, curving subjects: a swan, a plant, a dome or an arch",
+      "Still lifes and buildings you want to feel like the mark of a perfumer, bookshop or studio"
+    ],
+    "poor": [
+      "Colour-rich photos where you want every colour kept, since only one survives",
+      "Photos that depend on a full scene or on several people",
+      "Requests for dense all-over ornament, cartoon figures or a stock corporate logo"
+    ]
+  },
+  "ja": {
+    "name": "アール・ヌーヴォー紋章",
+    "tagline": "写真の主役を、色をひとつだけ差したアール・ヌーヴォー調の細線の紋章にします。",
+    "look": "元の写真は残し、主役は核となる輪郭ひとつだけにして、すっきりと優雅な細い線で描きます。まわりにはアール・ヌーヴォー風の植物の曲線、円環、細い幾何学の枠、星や光輪を少しだけ添えます。地は黒、グレー、温かな白、彩度の低い色で、写真からいちばん生き生きした色をひとつだけ選び、要所に小さく効かせます。軽い版画の風合いと紙の質感があり、紋章は小さく中央に置かれて余白は大きく、細身で出版物らしい書体の短い言葉がロゴのように組み合わされます。",
+    "traits": ["アール・ヌーヴォーの線", "ひとつの差し色", "アートエンブレム", "大胆な余白", "紙の線描"],
+    "good": [
+      "目立つ色がひとつある主役：赤い花、カワセミ、青い扉",
+      "曲線が美しい対象：白鳥、植物、ドームやアーチ",
+      "香水ブランドや書店、アトリエのマークのようにしたい静物や建物の写真"
+    ],
+    "poor": [
+      "色数が多く、すべての色を残したい写真（残る色はひとつです）",
+      "場面全体や複数の人の関係を見せる必要がある写真",
+      "全面を埋める装飾、キャラクター、ありがちな企業ロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "아르누보 문장",
+    "tagline": "사진 속 주인공을 색 하나만 얹은 아르누보풍 가는 선 문장으로 줄입니다.",
+    "look": "원본 사진은 남기고, 주인공은 핵심 윤곽 하나만 맑고 우아한 가는 선으로 그립니다. 주변에는 아르누보식 식물 곡선, 원형 고리, 가는 기하학 테두리, 별이나 후광을 조금만 둡니다. 바탕은 검정, 회색, 따뜻한 흰색이나 채도 낮은 색이고, 사진에서 가장 생기 있는 색 하나만 골라 핵심 부분에 작게 찍습니다. 판화 같은 느낌과 종이 질감이 살짝 있고, 문장은 작게 가운데 놓여 여백이 넓으며, 가늘고 출판물 같은 서체의 짧은 글자가 로고처럼 함께 짜입니다.",
+    "traits": ["아르누보 선", "단 하나의 강조색", "예술 엠블럼", "극단적 여백", "종이 위 선화"],
+    "good": [
+      "눈에 띄는 색이 하나 있는 주인공: 빨간 꽃, 물총새, 파란 문",
+      "곡선이 우아한 대상: 백조, 식물, 돔이나 아치",
+      "향수 브랜드, 서점, 작업실 마크처럼 만들고 싶은 정물과 건물 사진"
+    ],
+    "poor": [
+      "색이 많고 모든 색을 살리고 싶은 사진(남는 색은 하나뿐입니다)",
+      "전체 장면이나 여러 사람의 관계를 보여 줘야 하는 사진",
+      "화면을 꽉 채운 장식, 캐릭터, 흔한 기업 로고 템플릿을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شعار الآرت نوفو",
+    "tagline": "يختصر العنصر الرئيسي في صورتك في شعار بخطوط رفيعة على طراز الآرت نوفو، بلون واحد بارز فقط.",
+    "look": "تبقى صورتك، ويُختزل العنصر في خط خارجي أساسي واحد يُرسم بخط رفيع واضح وأنيق، تحيط به بضعة منحنيات نباتية على طراز الآرت نوفو وحلقات وإطار هندسي رفيع ونجوم أو هالة. الخلفية سوداء أو رمادية أو بيضاء دافئة أو بلون خافت، ولا يظهر إلا لون واحد هو أكثر ألوان الصورة حيوية، في لمسات صغيرة مركّزة. فيه إحساس خفيف بالطباعة الفنية وملمس الورق، والشعار صغير في الوسط وسط فراغ واسع، وبجانبه كلمات قليلة بخط ضيق أنيق يشبه خطوط الكتب، تتشكل معه كالشعار.",
+    "traits": ["خطوط الآرت نوفو", "لون إبراز واحد", "شعار فني", "فراغ واسع جداً", "رسم خطي على الورق"],
+    "good": [
+      "عنصر واحد بلون قوي واحد: زهرة حمراء، طائر الرفراف، باب أزرق",
+      "عناصر رشيقة منحنية: بجعة، نبتة، قبة أو قوس",
+      "صور جوامد ومبانٍ تريدها أن تبدو كشعار دار عطور أو مكتبة أو مرسم"
+    ],
+    "poor": [
+      "صور كثيرة الألوان تريد الاحتفاظ بها كلها، إذ لا يبقى إلا لون واحد",
+      "صور تعتمد على المشهد كاملاً أو على عدة أشخاص",
+      "طلب زخرفة كثيفة تملأ الصفحة أو شخصيات كرتونية أو شعار شركات جاهز"
+    ]
+  }
+}
